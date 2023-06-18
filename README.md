@@ -35,7 +35,6 @@
   
   
     
-![Snake animation](https://github.com/anabellypassos/anabellypassos/blob/output/github-contribution-grid-snake.svg)
 
     
 </div>
