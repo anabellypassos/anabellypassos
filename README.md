@@ -18,7 +18,7 @@
 
 <h2 align="center">Tecnologias que venho estudando</h2>
   <i align="center" >Algumas técnologias foram utilizadas na universidade e outras em projetos pessoais...</i>
-<img align="left" height="250" alt="coding-time" src="https://cdn.picrew.me/shareImg/org/202304/338224_ro64mWdt.png">
+   <img align="left" alt="" height="300" width="300" src="https://cdn.picrew.me/shareImg/org/202308/338224_dzfeoTbR.png">
   <br><br>
   
 <div align="center">
