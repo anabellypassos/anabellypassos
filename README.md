@@ -25,7 +25,7 @@
  <img align="center" alt="Ana-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ana-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Ana-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" alt="Ana-Python" heidth="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" alt="Ana-Java" heidth="60" width="50" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
 
 
  <h1 align="center">Redes Sociais</h1>
