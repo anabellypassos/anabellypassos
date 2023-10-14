@@ -1,5 +1,5 @@
 ### Olá! Eu sou Anabelly Passos
-🌱Estudando Java  Script
+🌱Estudando Java 
 📫 Como chegar:anabllybel123@gmail.com
 😃Pronomes:ela/dela
 
