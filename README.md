@@ -26,6 +26,7 @@
     <img align="center" alt="Ana-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Ana-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt="Ana-Java" heidth="60" width="50" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
+        <img align="center" alt="Ana-React" heidth="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 
 
  <h1 align="center">Redes Sociais</h1>
