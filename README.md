@@ -1,6 +1,6 @@
 ### Olá! Eu sou Anabelly Passos
 🌱Estudando Java 
-📫 Como chegar:anabllybel123@gmail.com
+📫 Como chegar:anabellybel123@gmail.com
 😃Pronomes:ela/dela
 
 <div aling="center">
