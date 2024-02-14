@@ -7,7 +7,7 @@
  <h1 align="center">Bem vindo ao meu github!</h1>
    <h3 aling="center"> Meu nome é Anabelly e sou estudante de Engenharia de Software.</h3>
 
-💼 Atualmente, contribuindo para projetos incríveis na THOT, aplicando minha experiência e habilidades em:
+💼 Atualmente, contribuindo para projetos incríveis na IpiCred, aplicando minha experiência e habilidades em:
 <div> 
  <img align="center" alt="Ana-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ana-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -46,7 +46,7 @@
 </br>
 </br>
   <i align="center" >Algumas técnologias foram utilizadas na universidade e outras em projetos pessoais...</i>
-   <img align="left" alt="" height="300" width="300" src="https://cdn.picrew.me/shareImg/org/202308/338224_dzfeoTbR.png">
+   
   <br><br>
   
 
