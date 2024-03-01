@@ -8,13 +8,15 @@
    <h3 aling="center"> Meu nome é Anabelly e sou estudante de Engenharia de Software.</h3>
 
 💼 Atualmente, contribuindo para projetos incríveis na IpiCred, aplicando minha experiência e habilidades em:
-<div> 
- <img align="center" alt="Ana-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ana-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Ana-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" alt="Ana-React" heidth="100" width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
-     <img align="center" alt="Ana-typescript" heidth="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" title="React" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" title="TypeScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50" />
 </div>
+
         
    <h2 align="center">Tecnologia que venho estudando</h2>
    
@@ -54,11 +56,19 @@
 
 
  <h1 align="center">Redes Sociais</h1>
-<div align="center">
-  <a href="https://instagram.com/anabelly_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the badge&logo=instagram&logoColor=white"heigth="300" width="122" target="_blank"></a>
-  <a href = "mailto:anabelly123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anabelly-passos-a4b44623b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </div>
+    <img align="center" alt="Ana" heidth="200" width="400" src="https://cdn.picrew.me/shareImg/org/202403/2003689_TxLFxYgh.png">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://instagram.com/anabelly_dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" height="30" />
+  </a>
+  <a href="mailto:anabelly123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="120" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/anabelly-passos-a4b44623b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="30" />
+  </a>
+</div>
+
 </div>
 
 ![snake gif](https://github.com/anabellypassos/anabellypassos/blob/output/github-contribution-grid-snake.svg)
