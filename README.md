@@ -13,6 +13,7 @@
     <img align="center" alt="Ana-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Ana-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt="Ana-React" heidth="100" width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+     <img align="center" alt="Ana-typescript" heidth="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
 </div>
         
    <h2 align="center">Tecnologia que venho estudando</h2>
