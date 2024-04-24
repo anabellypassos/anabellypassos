@@ -1,5 +1,5 @@
 ### Olá! Eu sou Anabelly Passos
-🌱Estudando Java 
+🌱
 📫 Como chegar:anabellybel123@gmail.com
 😃Pronomes:ela/dela
 
@@ -14,20 +14,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" title="React" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" title="TypeScript" width="50" height="50" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50" />
   <img src="https://play-lh.googleusercontent.com/Hutx6i_xfjnI9kHR0cB9sa2lRG5-aD-YTGvv21DaP27z_xH5Q9a0HDQH-Hcs_Nh2hYo=w240-h480-rw" alt="flutterflow" title="flutterflow" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" title="dart" width="50" height="50" />
 </div>
 
         
-   <h2 align="center">Tecnologia que venho estudando</h2>
+   <h2 align="center">Atualmente atuo como desenvolvedora móbile e Front-end</h2>
    
 
 
- <div style="display: flex; justify-content: space-between; align-items: center;">
+ <div style="display: flex;  align-items: center;">
 
   <img align="center" alt="E lAVAMOS NÓS" height="200" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--on5plZ8s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xjymr715t5l4m0ez9umb.gif">
 
-  <img alt="Java" height="200" width="200" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
+ 
 
 
 </br>
