@@ -1,10 +1,10 @@
-### Olá! Eu sou Anabelly Passos
-🌱
-📫 Como chegar:anabellybel123@gmail.com
-😃Pronomes:ela/dela
+ <img src="https://ltecnologia.com.br/blog/wp-content/uploads/2015/02/helloworld.png" alt="HTML5" title="Olá mundo" width="100%" />
+ <h1 align="center">Bem vindo ao meu github!</h1>
+ </br>
+ </br>
 
 <div aling="center">
- <h1 align="center">Bem vindo ao meu github!</h1>
+
    <h3 aling="center"> Meu nome é Anabelly e sou estudante de Engenharia de Software.</h3>
 
 💼 Atualmente, contribuindo para projetos incríveis na IpiCred, aplicando minha experiência e habilidades em:
@@ -17,6 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" title="React" width="50" height="50" />
   <img src="https://play-lh.googleusercontent.com/Hutx6i_xfjnI9kHR0cB9sa2lRG5-aD-YTGvv21DaP27z_xH5Q9a0HDQH-Hcs_Nh2hYo=w240-h480-rw" alt="flutterflow" title="flutterflow" width="50" height="50" />
    <img src="https://static.wikia.nocookie.net/google/images/9/98/Images-0.jpeg/revision/latest?cb=20180309024157" title="flutter width="50" height="50" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnn_FLBfy9aUkcxjAnbOIwnRt1Da8obGqo0w&s" title="github" width="50" height="50" />
 
 </div>
 
@@ -59,7 +60,6 @@
 
 
  <h1 align="center">Redes Sociais</h1>
-    <img align="center" alt="Ana" heidth="200" width="400" src="https://cdn.picrew.me/shareImg/org/202403/2003689_TxLFxYgh.png">
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://instagram.com/anabelly_dev" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" height="30" />
