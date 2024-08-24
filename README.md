@@ -1,79 +1,64 @@
- <img src="https://ltecnologia.com.br/blog/wp-content/uploads/2015/02/helloworld.png" alt="HTML5" title="Olá mundo" width="100%" />
- <h1 align="center">Bem vindo ao meu github!</h1>
- </br>
- </br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f547b5&height=120&section=header"/>
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=f547b5&size=35&center=true&vCenter=true&width=600&lines=Olá,+o+meu+nome+é+Anabelly!;Sejá+bem+vindo(a)+ao+meu+perfil;do+GIT+HUB!;" alt="Typing SVG">
+  <img src="![pngwing com](https://github.com/user-attachments/assets/0956423a-563c-4a41-827a-c9c1bea3643b)
+" alt="GitHub Logo" width="50" height="50">
+</p>
 
-<div aling="center">
 
-   <h3 aling="center"> Meu nome é Anabelly e sou estudante de Engenharia de Software.</h3>
 
-💼 Atualmente, contribuindo para projetos incríveis na IpiCred, aplicando minha experiência e habilidades em:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" title="TypeScript" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" title="dart" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" title="React" width="50" height="50" />
-  <img src="https://play-lh.googleusercontent.com/Hutx6i_xfjnI9kHR0cB9sa2lRG5-aD-YTGvv21DaP27z_xH5Q9a0HDQH-Hcs_Nh2hYo=w240-h480-rw" alt="flutterflow" title="flutterflow" width="50" height="50" />
-   <img src="https://static.wikia.nocookie.net/google/images/9/98/Images-0.jpeg/revision/latest?cb=20180309024157" title="flutter width="50" height="50" />
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnn_FLBfy9aUkcxjAnbOIwnRt1Da8obGqo0w&s" title="github" width="50" height="50" />
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-        
-   <h2 align="center">Atualmente atuo como desenvolvedora móbile e Front-end</h2>
-   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
- <div style="display: flex;  align-items: center;">
-
-  <img align="center" alt="E lAVAMOS NÓS" height="200" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--on5plZ8s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xjymr715t5l4m0ez9umb.gif">
+<div align="center">  
+<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
+### Main skills:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
  
-
-
-</br>
-</br>
-
-
-</div>
+### Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+ 
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-  <a href="https://github.com/anabellypassos">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anabellypassos&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabellypassos&layout=compact&langs_count=7&theme=omni"/>
-</div>
-
-</br>
-</br>
-
-🌐 Conecte-se comigo para discutir ideias, compartilhar conhecimentos e colaborar em projetos empolgantes!
-
-</br>
-</br>
-  <i align="center" >Algumas técnologias foram utilizadas na universidade e outras em projetos pessoais...</i>
-   
-  <br><br>
-  
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div>
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
- <h1 align="center">Redes Sociais</h1>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://instagram.com/anabelly_dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" height="30" />
-  </a>
-  <a href="mailto:anabelly123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="120" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/anabelly-passos-a4b44623b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="30" />
-  </a>
-</div>
-
-</div>
-
-![snake gif](https://github.com/anabellypassos/anabellypassos/blob/output/github-contribution-grid-snake.svg)
-  
-##
