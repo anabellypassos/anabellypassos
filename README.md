@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f547b5&height=120&section=header"/>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=f547b5&size=35&center=true&vCenter=true&width=600&lines=Olá,+o+meu+nome+é+Anabelly!;Sejá+bem+vindo(a)+ao+meu+perfil;do+GIT+HUB!;" alt="Typing SVG">
-  <img src="![pngwing com](https://github.com/user-attachments/assets/0956423a-563c-4a41-827a-c9c1bea3643b)
-" alt="GitHub Logo" width="50" height="50">
+   <img src="https://github.com/anabellypassos/anabellypassos/blob/main/pngwing.com.png" alt="GitHub Logo" width="100" height="100">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=f547b5&size=35&center=true&vCenter=true&width=600&lines=Olá,+o+meu+nome+é+Anabelly!;Sejá+bem+vindo(a)+ao+meu+perfil;do+GitHub!;" alt="Typing SVG">
+ 
 </p>
+
 
 
 
