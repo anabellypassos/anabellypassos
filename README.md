@@ -55,9 +55,8 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=0D1117)
 
- 
 
-  
+ 
 
 
 <div align="center">
