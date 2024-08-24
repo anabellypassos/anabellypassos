@@ -2,11 +2,11 @@
   
 <p align="center">
    <img src="https://github.com/anabellypassos/anabellypassos/blob/main/pngwing.com.png" alt="GitHub Logo" width="100" height="100">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=f547b5&size=35&center=true&vCenter=true&width=600&lines=Olá,+o+meu+nome+é+Anabelly!;Sejá+bem+vindo(a)+ao+meu+perfil;do+GitHub!;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=f547b5&size=35&center=true&vCenter=true&width=600&lines=Hello,+my+name+is+Anabelly!;Welcome+to+my+GitHub+profile!;" alt="Typing SVG">
  
 </p>
 
-<img src="https://github.com/anabellypassos/anabellypassos/blob/main/Green%20Neon%20Trendy%20Gaming%20Youtube%20Banner.png" />
+<img src="https://github.com/anabellypassos/anabellypassos/blob/main/Green%20Neon%20Trendy%20Gaming%20Youtube%20Banner%20(1).png" />
 
 
 <div align="center">  
