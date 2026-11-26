@@ -1,69 +1,55 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f547b5&height=120&section=header"/>
-  
 <p align="center">
-   <img src="https://github.com/anabellypassos/anabellypassos/blob/main/pngwing.com.png" alt="GitHub Logo" width="100" height="100">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=f547b5&size=35&center=true&vCenter=true&width=600&lines=Hello,+my+name+is+Anabelly!;Welcome+to+my+GitHub+profile!;" alt="Typing SVG">
- 
+  <img width="100%" src="./banner-starwars.svg" alt="Anabelly Passos — Desenvolvedora Front-end & Full-Stack" />
 </p>
 
-<img src="https://github.com/anabellypassos/anabellypassos/blob/main/Green%20Neon%20Trendy%20Gaming%20Youtube%20Banner%20(1).png" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFE81F&size=22&center=true&vCenter=true&width=650&lines=H%C3%A1+pouco+tempo,+numa+Bahia+nem+t%C3%A3o+distante...;uma+dev+escolheu+o+lado+do+c%C3%B3digo+limpo.;Que+a+For%C3%A7a+(e+o+TypeScript)+esteja+com+voc%C3%AA!" alt="Texto animado" />
+</p>
 
+---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anabellypassos&show_icons=true&count_private=true&hide_border=true&title_color=f547b5&icon_color=f547b5&text_color=c9d1d9&bg_color=0d1117"alt="https://github.com/anabellypassos/anabellypassos/blob/main/Green%20Neon%20Trendy%20Gaming%20Youtube%20Banner.png github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabellypassos&layout=compact&hide_border=true&title_color=f547b5&text_color=f547b5&bg_color=0d1117" />
-</div>
+## 🌌 Episódio I — Quem sou eu
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anabellypassos&bg_color=000000&color=f547b5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Sou **Anabelly Passos**, Engenheira de Software e desenvolvedora **Front-end & Full-Stack**, com cerca de **3 anos de missões remotas** para empresas do Brasil e do exterior (Espanha e Noruega), nos setores de **saúde, jurídico e financeiro**.
+
+Meu sabre de luz principal é **React + TypeScript**, mas também já enfrentei batalhas com **Angular**, **Vue.js**, **Node.js** e **Flutter**. Atuo da prototipação no Figma até o deploy, sempre de olho na experiência do usuário.
+
+## ⚔️ Episódio II — Meu arsenal
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,angular,vue,tailwind,nodejs,express,prisma,postgres,supabase,firebase,flutter,git,docker,figma&perline=8" alt="Tecnologias" />
 </p>
-<div align="center">  
-  <a href="https://www.instagram.com/anabelly_dev?igsh=MTY1eGpiMmR5c3gybg%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/anabelly-passos-a4b44623b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:anabellybel123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-  </a>
-</div>
 
+| Setor da galáxia | Tecnologias |
+|---|---|
+| **Front-end** | React · TypeScript · Angular · Vue.js · Tailwind CSS |
+| **Estado e dados** | TanStack Query · Zustand · React Hook Form · Zod |
+| **Back-end** | Node.js · Express · Prisma · PostgreSQL · Supabase · Firebase |
+| **Mobile** | Flutter · React Native |
+| **Ferramentas** | Git · GitHub · Docker · Vercel · Figma · Jira |
 
- 
-### Main skills:
-![HTML#](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter#](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![typpescript#](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## 🚀 Episódio III — Missões em destaque
 
+| Missão | O que é | Ver em ação |
+|---|---|---|
+| [**Pulse Admin**](https://github.com/anabellypassos/Pulse-Admin) | Dashboard full-stack com dados em tempo real: React, TypeScript, TanStack Query, Zod e Supabase | [Demo](https://pulse-admin-whrw.vercel.app/) |
+| [**Form Builder**](https://github.com/anabellypassos/form-builder-challenge) | Desafio full stack: back-end em Go (Gin, GORM) e front-end em React + TypeScript | — |
+| [**DocMind AI**](https://github.com/anabellypassos/office-magic) | Editor de documentos com IA (Gemini), calendário e tarefas | [Demo](https://office-magic.vercel.app) |
+| [**Kanban**](https://github.com/anabellypassos/task-manager-kanban) | Quadro Kanban em JavaScript puro, com arrastar e soltar e versão PT/EN | [Demo](https://task-manager-kanban-gules.vercel.app) |
 
+## 🛰️ Episódio IV — Uma nova esperança
 
+Estou em busca da minha próxima missão como **Desenvolvedora Front-end ou Full-Stack** (React, Angular, TypeScript, Node.js), em trabalho **remoto**, com **disponibilidade imediata**.
 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=0D1117)
+🧘 **Treinamento Jedi em andamento:** testes automatizados (Vitest, Testing Library, Playwright) e Next.js.
 
+## 📡 Comunicação com a base
 
- 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anabelly-passos-a4b44623b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFE81F" alt="LinkedIn" /></a>
+  <a href="mailto:anabellybel123@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFE81F" alt="Gmail" /></a>
+  <a href="https://portf-lio-freelancer.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=FFE81F" alt="Portfólio" /></a>
+  <a href="https://www.instagram.com/anabelly_dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFE81F" alt="Instagram" /></a>
+</p>
 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{anabellypassos}/count.svg" /></p> 
-<br></div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f547b5&height=120&section=footer"/>
-
+<p align="center"><b>✨ Que a Força esteja com você — e com o seu código. ✨</b></p>
